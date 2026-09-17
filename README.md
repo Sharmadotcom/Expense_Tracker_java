@@ -1,10 +1,5 @@
 # 💰 Expense Tracker — Java Console Application
 
-> **Week 3 Internship Project** | MotionCut  
-> A command-line Expense Tracker built in Java that lets users log, view, categorize, and persist their expenses.
-
----
-
 ## Overview
 
 This project is a console-based **Expense Tracker** application developed as part of a Java internship program (Week 3). It demonstrates core Java concepts including object-oriented programming, file I/O with serialization, collections, streams, and interactive console input handling.
